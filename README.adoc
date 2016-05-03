@@ -6,7 +6,7 @@ __Repository for my talk on Elm during http://2016.flatmap.no/[flatmap 2016 (Osl
 
 
 .**You can view the presentation here:**
-https://rawgit.com/rundis/elm-flatmap2016/master/presentation/index.htm
+https://rawgit.com/rundis/elm-flatmap2016/master/presentation/index.html
 
 
 
