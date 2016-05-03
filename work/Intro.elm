@@ -6,10 +6,9 @@ import Mouse
 
 
 
-
-main : Element
+main : Signal Element
 main =
-  showLarge "Hello Flatmap 2016!"
+  Signal.map showLarge (Signal.foldp (\_ count -> count + 1 ) 0 Mouse.clicks)
 
 
 
