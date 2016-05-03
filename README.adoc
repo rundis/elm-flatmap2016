@@ -1,0 +1,18 @@
+== Functional Programming for the Web using Elm (Flatmap 2016)
+
+
+__Repository for my talk on Elm during http://2016.flatmap.no/[flatmap 2016 (Oslo)]__
+
+
+
+.You can view the presentation here:
+https://rawgit.com/rundis/elm-flatmap2016/master/presentation/index.htm
+
+
+
+
+
+.This repository contains
+- Code Examples for the Talk
+- The Elm project (subdir `Presentation`) used to create the slides using https://github.com/w0rm/elm-slice-show[elm-slice-show]
+- The Resulting code from the Live coding (subdir `work`)
